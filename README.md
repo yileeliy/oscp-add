@@ -1,2 +1,2 @@
 # oscp-add
-瞎写的一些笔记，来不及整理，上传到github给有需要的bro，直接ctrl+F搜索你想知道的就行，如果没有，那肯定就是没有，放心包不全，但也总有一个point是你用的上的！
+These are just random notes I scribbled down without organizing them. I uploaded them to GitHub for any interested folks. Just hit Ctrl+F and search for what you're looking for. If it's not there, well, it's not there. Don't worry, I can't cover everything, but there's always at least one useful point you might find!
