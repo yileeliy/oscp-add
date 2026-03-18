@@ -450,7 +450,7 @@ bloodhound-python -d resourced.local -u v.ventz -p 'HotelCalifornia194!' -ns 192
 
 注意最新版的kali 2025.2 已经集成Bloodhound-CE
 
-密码：Xieyile127!@#
+密码：XXXXXXXXXXX
 
 ```
 # 依靠bloodhound-cli启动docker容器
