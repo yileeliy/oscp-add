@@ -3472,3 +3472,15 @@ hashcat -a 0 -m 16500 ./lele.jwt /usr/share/seclists/Passwords/scraped-JWT-secre
 hashcat -a 0 -m 16500 ./lele.jwt /usr/share/seclists/Passwords/scraped-JWT-secrets.txt -r /usr/share/hashcat/rules/best64.rule --force
 ```
 
+
+
+# Pre2k
+
+>pre2k 是什么?
+>
+>Windows 2000之前，机器账户加入域时默认密码是计算机名小写（去掉$符号），例如：
+>
+>机器名：WORKSTATION01$
+>默认密码：workstation01
+>
+>如果机器加入域时勾选了 "Pre-Windows 2000 compatible" 选项，且密码从未更改，就存在这个漏洞。
