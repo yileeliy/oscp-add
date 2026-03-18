@@ -1253,7 +1253,7 @@ cadaver http://192.168.219.122
 
 # OpenVpn
 
-## 往事回忆：`openvpn ./SG_XieYile.ovpn`这还能运行失败
+## 往事回忆：`openvpn ./SG.ovpn`这还能运行失败
 
 Debian 10 Buster默认仓库中的 OpenVPN 版本是 **2.4.7**，而有些配置文件 `.ovpn` 使用了新版 OpenVPN（2.5+）才支持的选项，例如 `data-ciphers-fallback`等。可以使用下面换源的方法，下载最新版openvpn客户端。当然最好建议是使用Debian11、Debian12。
 
